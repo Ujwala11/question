@@ -1,0 +1,7 @@
+C:\Users\Uzwala\source\repos\code4\code4\obj\Debug\code4.csprojAssemblyReference.cache
+C:\Users\Uzwala\source\repos\code4\code4\obj\Debug\code4.csproj.CoreCompileInputs.cache
+C:\Users\Uzwala\source\repos\code4\code4\bin\Debug\code4.exe.config
+C:\Users\Uzwala\source\repos\code4\code4\bin\Debug\code4.exe
+C:\Users\Uzwala\source\repos\code4\code4\bin\Debug\code4.pdb
+C:\Users\Uzwala\source\repos\code4\code4\obj\Debug\code4.exe
+C:\Users\Uzwala\source\repos\code4\code4\obj\Debug\code4.pdb

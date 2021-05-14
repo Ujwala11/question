@@ -16,20 +16,21 @@ namespace code4
             
             if (s==3)
             {
-                Measure m = new Measure();
-                m.heightof();
-                m.baseof();
+                
                 Triangle t = new Triangle();
+                t.heightof();
+                t.baseof(); 
                 double x = t.area();
                 Console.WriteLine("the area is " + x);
                 Console.ReadLine();
+                
             }
             else if(s==4)
             {
-                Measure m = new Measure();
-                m.heightof();
-                m.baseof();
+                
                 Qudrangle q = new Qudrangle();
+                q.heightof();
+                q.baseof();
                 double y = q.qudra();
                 Console.WriteLine("the area is " + y);
                 Console.ReadLine();
